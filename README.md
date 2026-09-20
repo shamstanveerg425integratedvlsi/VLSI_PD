@@ -828,7 +828,7 @@ I sincerely appreciate the time and effort invested in helping students develop 
 ### Project Files
 
 - [Community Service Photo 1](https://github.com/shamstanveerg425integratedvlsi/VLSI_PD/blob/main/WhatsApp%20Image%202026-09-19%20at%2011.02.12%20PM.jpeg)
-- [Community Service Photo 2](https://github.com/shamstanveerg425integratedvlsi/VLSI_PD/blob/main/WhatsApp%20Image%202026-09-19%20at%2011.02.12%20PM%20(1).jpeg)
+- [Community Service Photo 2](https://github.com/shamstanveerg425integratedvlsi/VLSI_PD/blob/main/Food_Service-collage.jpg)
 - [`Final Project.pdf`](https://github.com/shamstanveerg425integratedvlsi/VLSI_PD/blob/main/Final%20Project.pdf) — Complete Technical Report
 
 ---
